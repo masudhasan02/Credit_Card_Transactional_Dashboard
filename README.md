@@ -49,3 +49,8 @@ Overall delinquency rate is 6.06%.
 Power BI: For data visualization and dashboard creation.
 PostgreSQL: For data storage and retrieval.
 SQL: For querying and manipulating data in PostgreSQL.
+
+# Future Enhancements
+Real-Time Data Integration: Integrate real-time data feeds to provide up-to-the-minute insights.
+Predictive Analytics: Add predictive models to forecast future revenue and delinquency trends.
+Customer Segmentation: Implement advanced customer segmentation based on spending patterns and demographics.
