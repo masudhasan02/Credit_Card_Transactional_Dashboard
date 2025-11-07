@@ -5,6 +5,8 @@ The dashboard provides a detailed overview of weekly and year-to-date (YTD) perf
 
 # Key Features of the Dashboard
 
+<a href="https://github.com/masudhasan02/Credit_Card_Transactional_Dashboard/blob/main/Credit_Card_Report_Customer.pdf">
+
 # Weekly Performance Metrics:
 Week-over-Week (WoW) Change: Tracks changes in revenue, transaction amounts, and customer counts.
 Revenue by Card Category: Breakdown of revenue by card types (Blue, Silver, Gold, Platinum).
