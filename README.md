@@ -9,6 +9,8 @@ The dashboard provides a detailed overview of weekly and year-to-date (YTD) perf
 
 This project focuses on building an interactive Power BI dashboard to analyze customer behavior and performance trends related to credit card usage. The dashboard provides real-time insights into key customer metrics, helping stakeholders understand revenue contributions, satisfaction levels, and customer profiles across various dimensions. The dataset is sourced from a PostgreSQL server, integrated with Power BI for visualization and advanced analytics.
 
+The dashboard offers an in-depth view of customer-centric performance indicators such as revenue, income, total interest earned, and satisfaction scores. It also highlights patterns based on demographics and financial behavior, including age group, marital status, income level, education, and state-wise revenue distribution. Additionally, it explores correlations between personal loan status, car ownership, and spending habits to support data-driven customer engagement strategies.
+
 ![Credit_Card_Report_Customer](https://github.com/user-attachments/assets/f56e9d84-85fb-4cc3-8ad3-46fb874454f0)
 
 # Weekly Performance Metrics:
