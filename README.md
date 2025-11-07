@@ -3,9 +3,9 @@ This project aims to develop a comprehensive credit card weekly dashboard using 
 
 The dashboard provides a detailed overview of weekly and year-to-date (YTD) performance metrics, including revenue, transaction amounts, customer counts, and delinquency rates. It also breaks down data by various categories such as card type, customer demographics, expenditure types, and geographic regions.
 
-# Key Features of the Dashboard
+# Dashboard
 
-<a href="https://github.com/masudhasan02/Credit_Card_Transactional_Dashboard/blob/main/Credit_Card_Report_Customer.pdf">
+<a href="https://github.com/masudhasan02/Credit_Card_Transactional_Dashboard/blob/main/Credit_Card_Report_Customer.pdf">Dataset</a>
 
 # Weekly Performance Metrics:
 Week-over-Week (WoW) Change: Tracks changes in revenue, transaction amounts, and customer counts.
